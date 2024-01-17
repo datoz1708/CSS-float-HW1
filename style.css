@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.box1 {
+    width: 218px;
+    height: 218px;
+    background-color: #FE0303;
+    position: absolute;
+}
+
+.box2 {
+    width: 218px;
+    height: 218px;
+    background-color: #0500FF;
+    position: relative;
+    float: right;
+}
